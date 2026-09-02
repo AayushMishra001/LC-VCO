@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on the design, simulation, RF characterization, and physical implementation of a **5.8-GHz differential LC-VCO** in a 180-nm CMOS technology.
 
@@ -17,7 +17,7 @@ The project follows a complete RFIC design flow, from theoretical design and sch
 
 ---
 
-## 🎯 Design Objectives
+##  Design Objectives
 
 The primary objectives of the project are:
 
@@ -36,7 +36,7 @@ The primary objectives of the project are:
 
 ---
 
-## 🏗️ Circuit Architecture
+##  Circuit Architecture
 
 The proposed LC-VCO consists of the following major blocks:
 
@@ -78,7 +78,7 @@ The proposed LC-VCO consists of the following major blocks:
 
 ---
 
-## 🔬 Design Methodology
+##  Design Methodology
 
 The design follows the sequence below:
 
@@ -402,7 +402,7 @@ The primary objective is to determine how physical parasitics affect:
 
 ---
 
-## 📊 Current Design Status
+##  Current Design Status
 
 | Parameter | Current Status / Value |
 |---|---|
@@ -429,7 +429,7 @@ The primary objective is to determine how physical parasitics affect:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Cadence Virtuoso
 - Cadence Spectre / SpectreRF
@@ -444,7 +444,7 @@ The primary objective is to determine how physical parasitics affect:
 
 ---
 
-## 📁 Suggested Repository Structure
+##  Suggested Repository Structure
 
 ```text
 5.8GHz-LC-VCO/
@@ -489,7 +489,7 @@ The primary objective is to determine how physical parasitics affect:
 
 ---
 
-## 📌 Project Status
+##  Project Status
 
 ### Completed
 
@@ -523,7 +523,7 @@ The primary objective is to determine how physical parasitics affect:
 
 ---
 
-## 📚 Research Direction
+##  Research Direction
 
 The ongoing work investigates the relationship between:
 
@@ -535,7 +535,7 @@ The final version of the project will evaluate whether the proposed architecture
 
 ---
 
-## 👥 Team
+##  Team
 
 **Institution:** RNS Institute of Technology, Bengaluru
 
@@ -545,7 +545,7 @@ The final version of the project will evaluate whether the proposed architecture
 
 ---
 
-## ⚠️ Project Disclaimer
+##  Project Disclaimer
 
 This repository documents an ongoing academic RFIC design project.
 
