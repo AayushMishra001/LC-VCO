@@ -12,4 +12,4 @@
 
 • Verified oscillation frequency and phase-noise performance across process, voltage, and temperature (PVT) corners and optimized the design for robust operation.
 
-• Designed a symmetric/common-centroid RFIC layout with emphasis on device matching, differential symmetry, parasitic reduction, and RF-aware routing; performed PEX and post-layout re-simulation to evaluate parasitic impact on frequency, phase noise, and overall RF performance.
+• Designed a symmetric/common-centroid RFIC layout with emphasis on device matching, differential symmetry, parasitic reduction, and RF-aware routing; performed DRC/LVS verification and RC parasitic extraction (PEX) on the completed layout.
