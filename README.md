@@ -444,51 +444,6 @@ The primary objective is to determine how physical parasitics affect:
 
 ---
 
-##  Suggested Repository Structure
-
-```text
-5.8GHz-LC-VCO/
-│
-├── README.md
-│
-├── schematic/
-│   ├── lc_vco_schematic/
-│   └── testbenches/
-│
-├── simulations/
-│   ├── transient/
-│   ├── pss/
-│   ├── pnoise/
-│   ├── s_parameters/
-│   └── tuning/
-│
-├── rf_characterization/
-│   ├── impedance/
-│   ├── resonator/
-│   └── varactor/
-│
-├── layout/
-│   ├── layout/
-│   ├── drc/
-│   └── lvs/
-│
-├── post_layout/
-│   ├── pex/
-│   ├── extracted_netlist/
-│   └── simulations/
-│
-├── documentation/
-│   ├── calculations/
-│   ├── figures/
-│   └── paper/
-│
-└── results/
-    ├── pre_layout/
-    └── post_layout/
-```
-
----
-
 ##  Project Status
 
 ### Completed
@@ -539,8 +494,7 @@ The final version of the project will evaluate whether the proposed architecture
 
 **Institution:** RNS Institute of Technology, Bengaluru
 
-**Author:** Animesh  
-**Co-authors:** Aayush Mishra, Pavan U Shanbhogue, S Manu Rakshith  
+**Author:** Animesh Kumar, Aayush Mishra, Pavan U Shanbhogue, S Manu Rakshith  
 **Project Guide:** Ohileshwari M S
 
 ---
